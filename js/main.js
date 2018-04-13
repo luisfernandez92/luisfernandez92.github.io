@@ -12,7 +12,7 @@ links.forEach(function(link){
     content.classList.add("animated");
 
     setTimeout(function(){
-      location.href = "/sdsd";
+      location.href = "/";
     }, 600);
 
   });
